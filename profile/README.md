@@ -1,7 +1,7 @@
 <div align="center"> 
 <img src="https://pic.superbed.cc/item/674aed30fa9f77b4dc50bff8.jpg" align="center" style="width: 100%" /> 
 </div> 
-# <div align="center">Alone Chat</div> 
+<h1><div align="center">Alone Chat</div></h1>
 - 🔭 We're currently working on [Github AloneChat Project](https://github.com/alonechat/r) 
 - 🌱 We're currently learning Python Web Dev 
 - ❓ Ask me about anything related to emal me 2 <zcy at hi dash zcy dot com> 
